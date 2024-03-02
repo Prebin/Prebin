@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prebin
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Prebin
+- 👀 I’m interested in learning and colaborating on IT projects.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: linkedin or prebinperu@gmail.com
+- 💞️ I’m looking to collaborate on projects and learn front end devolopment
+- 📫 How to reach me: linkedin (www.linkedin.com/in/prebin-babu-180919880000000000000) or prebinperu@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
